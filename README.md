@@ -1,8 +1,5 @@
-# Futbol-Basketbol-Kart-Oyunu
-futbol ve basketbol kartlarından oluşan kart oyunu
+Java dili kullanılarak yazılmıştır
 
-Eclipse ide kullanılarak yazılmıştır
+Eclipse-Netbeans idelerinde çalıştırılması tavsiye edilir
 
 Görüntü ayarları-ölçek ve düzen-metin, uygulama ve diğer öğelerin boyutunu değiştir-%100 seçiniz
-
-Hazırlayanlar: Aziz Can ÖZ - Kerem ÇALIŞKAN
