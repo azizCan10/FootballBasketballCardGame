@@ -1,5 +1,5 @@
-Java dili kullanılarak yazılmıştır
+Written with Java
 
-Eclipse-Netbeans idelerinde çalıştırılması tavsiye edilir
+Eclipse and Netbeans ides are recommended
 
-Görüntü ayarları-ölçek ve düzen-metin, uygulama ve diğer öğelerin boyutunu değiştir-%100 seçiniz
+Image settings -> Scale and layout -> Change the size of text, application and other elements -> Select 100%
